@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Springboot**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Federico-Pedro?tab=repositories](https://github.com/Federico-Pedro?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/Federico-Pedro?tab=repositories)
 
-- 📫 How to reach me **https://federico-pedro.github.io/federico-pedro-landing-page/**
+- 📫 How to reach me [My homepage](https://federico-pedro.github.io/federico-pedro-landing-page/)
 
-- 📄 Know about my experiences [https://federico-pedro.github.io/federico-pedro-landing-page/assets/Web%20developer%20-%20Federico%20Pedro%20-Resume-English.pdf](https://federico-pedro.github.io/federico-pedro-landing-page/assets/Web%20developer%20-%20Federico%20Pedro%20-Resume-English.pdf)
+- 📄 Know about my experiences [My Cv (Resume)](https://federico-pedro.github.io/federico-pedro-landing-page/assets/Web%20developer%20-%20Federico%20Pedro%20-Resume-English.pdf)
 
-- ⚡ Fun fact **I'm an artist, an art professor, I have a BA in fine arts; I'm also a chef**
+- ⚡ Fun fact **I'm an artist, an art professor, and I have a BA in fine arts; I'm also a chef**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
